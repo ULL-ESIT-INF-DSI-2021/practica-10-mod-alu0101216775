@@ -1,0 +1,4 @@
+{
+    "entryPoints": ["./src/ejercicio-2/countFunctions.ts", "./src/ejercicio-2/index.ts", "./src/ejercicio-2/initializeYargs.ts", "./src/ejercicio-3/index.ts", "./src/ejercicio-4/index.ts", "./src/ejercicio-4/initializeYargs.ts", "./src/ejercicio-4/fileSystemWorkflowHandler.ts"],
+    "out": "./docs/typedoc"
+  }
